@@ -1,8 +1,8 @@
 # Hi, I'm Kersten 👋
 
-**AI Automation & SaaS Builder** focused on practical software that reduces repetitive business work.
+**AI Automation & SaaS Builder** focused on practical software and workflow automation for real business use cases.
 
-I build and work with AI-powered products, workflow automation, and modern web applications — with a strong focus on turning real business processes into simple, usable systems.
+I build AI-powered products, automation workflows, and modern web applications with a strong focus on making complex processes simpler and more efficient.
 
 ## What I work on
 
@@ -29,8 +29,8 @@ It helps move from raw property information to client-ready marketing material a
 - Subscription and billing integration
 - German / English application support
 
-**Product:** https://exposedraft.com  
-**Public technical showcase:** https://github.com/Kers9/exposedraft-showcase
+**Live product:** https://exposedraft.com  
+**Technical showcase:** https://github.com/Kers9/exposedraft-showcase
 
 ## Tech I work with
 
@@ -38,7 +38,11 @@ It helps move from raw property information to client-ready marketing material a
 
 ## Current focus
 
-I'm especially interested in projects involving **AI automation, SaaS, workflow optimization, AI integrations, and practical business software**.
+I'm especially interested in freelance projects involving **AI automation, SaaS, workflow optimization, AI integrations, and practical business software**.
+
+## Work with me
+
+**Upwork:** https://www.upwork.com/freelancers/~019cedb3a792deb1e0
 
 ## Languages
 
